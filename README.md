@@ -12,6 +12,27 @@ community-accessible network. The goal is more than deploying repeaters: Harnett
 Mesh is building a documented and understandable service that residents can
 learn, use, and help improve.
 
+## Community context
+
+Harnett Mesh is being developed by members of Harnett County AuxComm. The
+AuxComm header image below is included as a visual reference to that
+community connection; Harnett Mesh is not an official Harnett County government
+communications service.
+
+![Harnett County Emergency Services AuxComm](assets/images/harnett-county-auxcomm-header.png)
+
+The [Harnett County map](assets/images/harnett-county-map.png) provides
+geographic context for the county. It is not a Harnett Mesh coverage map.
+Harnett Mesh coverage information will be published separately using
+generalized, privacy-preserving results.
+
+![Map of Harnett County, North Carolina, with municipal and township labels](assets/images/harnett-county-map.png)
+
+Image sources: [Harnett County AuxComm header image](https://www.harnett.org/em/downloads/auxcomm-header.png)
+and [Harnett County map on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Map_of_Harnett_County_North_Carolina_With_Municipal_and_Township_Labels.PNG).
+The map is credited to US Census and Ruhrfisch and is identified as public
+domain on Wikimedia Commons.
+
 ## Get Started with Harnett Mesh
 
 New to Harnett Mesh? Start with the

@@ -16,6 +16,18 @@ using shared MeshCore and LoRa-based infrastructure.
 The project is currently in planning and early development. This repository is
 the public source of truth for its documentation and standards.
 
+## Harnett County context
+
+Harnett Mesh is being developed by members of Harnett County AuxComm. The
+following county map is provided only for geographic context. It does not show
+Harnett Mesh coverage or infrastructure locations.
+
+![Map of Harnett County, North Carolina, with municipal and township labels](../assets/images/harnett-county-map.png)
+
+See the [map's Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Map_of_Harnett_County_North_Carolina_With_Municipal_and_Township_Labels.PNG)
+for source and licensing information. Planned Harnett Mesh coverage will be
+documented separately in the [community coverage guide](coverage.md).
+
 ## Community benefit
 
 The network is meant to be understandable and useful to ordinary community
