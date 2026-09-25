@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+  <title id="title">Planned Harnett Mesh coverage categories</title>
+  <desc id="desc">Four planned coverage categories are shown from stronger expected communication to areas that have not yet been tested.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f7fafc; }
+      .title { fill: #1a202c; font: 600 20px Arial, sans-serif; text-anchor: middle; }
+      .label { fill: #1a202c; font: 700 18px Arial, sans-serif; text-anchor: middle; }
+      .small { fill: #4a5568; font: 15px Arial, sans-serif; text-anchor: middle; }
+      .box { stroke: #2d3748; stroke-width: 2; }
+    </style>
+  </defs>
+  <rect class="bg" width="900" height="300" rx="18"/>
+  <text class="title" x="450" y="42">Planned public coverage categories</text>
+  <text class="small" x="450" y="68">Categories and thresholds remain TBD until field testing establishes them.</text>
+  <rect class="box" x="55" y="105" width="180" height="105" rx="12" fill="#68d391"/>
+  <rect class="box" x="255" y="105" width="180" height="105" rx="12" fill="#9ae6b4"/>
+  <rect class="box" x="455" y="105" width="180" height="105" rx="12" fill="#f6e05e"/>
+  <rect class="box" x="655" y="105" width="180" height="105" rx="12" fill="#cbd5e0"/>
+  <text class="label" x="145" y="142">Strong</text>
+  <text class="small" x="145" y="170">Relatively reliable</text>
+  <text class="small" x="145" y="190">evidence</text>
+  <text class="label" x="345" y="142">Good</text>
+  <text class="small" x="345" y="170">Generally expected</text>
+  <text class="small" x="345" y="190">to work</text>
+  <text class="label" x="545" y="142">Marginal</text>
+  <text class="small" x="545" y="170">Intermittent or</text>
+  <text class="small" x="545" y="190">limited</text>
+  <text class="label" x="745" y="142">Untested</text>
+  <text class="small" x="745" y="170">Not enough evidence</text>
+  <text class="small" x="745" y="190">yet</text>
+  <text class="small" x="450" y="255">Public maps will distinguish estimated coverage from field-verified coverage.</text>
+</svg>

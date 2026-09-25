@@ -4,6 +4,8 @@
 [Coverage](coverage.md) • [Channels](channels.md) •
 [Troubleshooting](troubleshooting.md) • [FAQ](faq.md)
 
+![Diagram showing how a message can travel through Harnett Mesh](../assets/images/mesh-network-overview.svg)
+
 ## Purpose
 
 Harnett Mesh is a community communications initiative for Harnett County,

@@ -17,6 +17,8 @@ learn, use, and help improve.
 New to Harnett Mesh? Start with the
 [beginner getting-started guide](docs/getting-started.md).
 
+![A simple illustration of the Harnett Mesh community journey](assets/images/getting-started-journey.svg)
+
 ## Explore Harnett Mesh
 
 Follow the documentation in this order if you are new to the project:

@@ -8,6 +8,8 @@ Harnett Mesh plans to publish a public map that helps users understand where
 communication may be possible. The map will be a planning aid, not a guarantee
 of service.
 
+![Illustration of the planned public coverage categories](../assets/images/coverage-categories.svg)
+
 ## Planned public categories
 
 - **Strong:** Conditions where testing or modelling indicates a relatively

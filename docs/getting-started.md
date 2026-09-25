@@ -8,6 +8,8 @@ The eventual goal is **zero MeshCore knowledge to a first successful Harnett
 Mesh message in approximately 15 minutes**. This page is an initial framework
 for that beginner guide. Instructions and configuration values are not final.
 
+![Illustration of the Harnett Mesh beginner journey](../assets/images/getting-started-journey.svg)
+
 ## 1. What You Need
 
 Describe the compatible radio device, a supported phone, power requirements, and
